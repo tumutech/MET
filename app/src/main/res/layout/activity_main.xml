@@ -59,7 +59,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/textView" />
 
             <TextView
-                android:id="@+id/loginb"
+                android:id="@+id/logintxt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
@@ -71,6 +71,16 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/getstart" />
+
+            <Button
+                android:id="@+id/loginstart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Login"
+                app:layout_constraintEnd_toEndOf="@+id/logintxt"
+                app:layout_constraintStart_toStartOf="@+id/logintxt"
+                app:layout_constraintTop_toBottomOf="@+id/logintxt" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
