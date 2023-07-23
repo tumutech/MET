@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MET</string>
+    <string name="login_txt">  Already have an account? Login  </string>
+    <string name="account_new">Create new \n Account</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366172748974",
+    "project_id": "met-app-971ec",
+    "storage_bucket": "met-app-971ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366172748974:android:50e5f3bbb84398d4dcc13f",
+        "android_client_info": {
+          "package_name": "com.groupe.met"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366172748974-eg7v0bapojd1oia21kv73t4fggiaa62g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinAk9T3Pce2cTGYvxae5wrtBltjWTXsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366172748974-eg7v0bapojd1oia21kv73t4fggiaa62g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
